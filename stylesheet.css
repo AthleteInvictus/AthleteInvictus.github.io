@@ -1,16 +1,17 @@
-.class1 {
-  color: red;
-}
+.class1 {color: red;}
 
-.class2 {
-  color: blue;
-}
+.class2 {color: blue;}
 
-p {
-  font-size: 16 px;
-  color: black;
-}
+.class3 {color: red;}
 
-a {
-  color: black;
-}
+.class4 {color: blue;}
+
+.class5 {color: blue;}
+
+.class6 {color: red;}
+
+a {color: black;}
+
+p {font-size: 16 px; color: black;}
+
+
